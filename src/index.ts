@@ -37,7 +37,7 @@ export const plugin: PluginDefinition = {
           border: "#646464",
         },
         responsePane: {
-          surface: "#1e1e1e",
+          surface: "#000000",
           border: "#646464",
         },
         button: {
