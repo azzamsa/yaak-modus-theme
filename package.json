@@ -3,10 +3,10 @@
   "description": "Modus Theme for Yaak",
   "displayName": "Modus Theme",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "repository": {
       "type": "git",
-      "url": "https://github.com/azzamsa/yaak-modus-theme.git"
+      "url": "https://github.com/azzamsa/modus-theme.yaak.git"
   },
   "scripts": {
     "build": "yaak plugin build",
