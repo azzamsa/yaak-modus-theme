@@ -9,7 +9,7 @@ export const plugin: PluginDefinition = {
         surface: "#000000",
         surfaceHighlight: '#5a5a5a',
         // active selection on sidebar
-        surfaceActive: '#5a5a5a',
+        surfaceActive: '#2f3849',
         border: '#646464',
         borderSubtle: '#303030',
         text: "#ffffff",
