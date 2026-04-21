@@ -1,5 +1,6 @@
 #!/usr/bin/env -S just --justfile
 
+alias d := dev
 alias b := build
 
 [doc('List available commands')]

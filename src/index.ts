@@ -2,8 +2,8 @@ import { PluginDefinition } from "@yaakapp/api";
 export const plugin: PluginDefinition = {
   themes: [
     {
-      id: "modus-vivendi-theme",
-      label: "Modus Vivendi Theme",
+      id: "modus-vivendi",
+      label: "Modus Vivendi",
       dark: true,
       base: {
         surface: "#000000",
